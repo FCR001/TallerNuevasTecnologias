@@ -43,79 +43,79 @@ Interacción completa en tiempo real, el futuro.
 
 Los lenguajes de la interacción
 
-		Manipulación física
+	Manipulación física
 
-		Entrada por teclado
+	Entrada por teclado
 
-		El ratón
+	El ratón
 
-		Imágenes, localización y detección de presencia
+	Imágenes, localización y detección de presencia
 
-		Interfaces biométricos, hápticos y multitáciles
+	Interfaces biométricos, hápticos y multitáciles
 
-		Gestos
+	Gestos
 
-		Reconocimiento de voz
+	Reconocimiento de voz
 
 Intercambio de datos y exploración
 
-		Soporte para la visualización de datos
+	Soporte para la visualización de datos
 
-		Organización de tareas
+	Organización de tareas
 
-		Creación de experiencias
+	Creación de experiencias
 
-		Colaboración entre usuarios
+	Colaboración entre usuarios
 
- 		Control de objetos mecánicos
+ 	Control de objetos mecánicos
 
-		Modificación y mejora de herramientas
+	Modificación y mejora de herramientas
 
-		Creación de entornos. Arquitecutura reactiva
+	Creación de entornos. Arquitecutura reactiva
 
 Flujo en trabajos de programación
 
-		Concepción
+	Concepción
 
-		Investigación
+	Investigación
 
-		Diseño
+	Diseño
 
-		Construcción
+	Construcción
 
- 		Pruebas
+ 	Pruebas
 
 
 
 CONCEPTOS BÁSICOS EN PROGRAMACIÓN
 
-		Código, fichero, compilador y ejecutable
+	Código, fichero, compilador y ejecutable
 
-		Variables
-
+	Variables
+	
 Tipos simples: Enteros, coma flotante, carácter, booleana, cadena, byte y long.
 
-		Casting
+	Casting
 	
-		Operadores
+	Operadores
 
-		Sentencias de control
+	Sentencias de control
 
-			If/then
+		If/then
 	
-			For Loop
+		For Loop
 
-			While Loop
+		While Loop
 
-			Continue
+		Continue
 
-			Break
+		Break
 
-		Funciones
+	Funciones
 
-		Clases: objetos, atributos y métodos.
-		
-		UNAS NOCIONES DE ELECTRICIDAD
+	Clases: objetos, atributos y métodos.
+	
+	UNAS NOCIONES DE ELECTRICIDAD
 
 COMPONENTES ELECTRÓNICOS BÁSICOS
 
@@ -128,11 +128,11 @@ EMPEZANDO CON ARDUINO
 
 UNAS NOCIONES DE ELECTRICIDAD
 
-		Conceptos Básicos
+	Conceptos Básicos
 
--	Voltaje
--	Intensidad 
--	Resistencia
+	Voltaje
+	Intensidad 
+	Resistencia
 
 Entendiendo la electricidad. La ley de Ohm
 
@@ -142,27 +142,27 @@ Circuitos en serie y en paralelo
 
 COMPONENTES ELECTRÓNICOS BÁSICOS
 
-		Resistencias
+	Resistencias
 
-		Potenciómetros (resistencias variables)
+	Potenciómetros (resistencias variables)
 
-		Fotoresistencias
+	Fotoresistencias
 
-		Interruptores
+	Interruptores
 
-		Diodos y leds
+	Diodos y leds
 
-		Transductores piezoeléctricos
+	Transductores piezoeléctricos
 
 
-		El transistor mosfet
+	El transistor mosfet
 
-		Motores 
+	Motores 
 
--	Servomotores
--	Motores paso a paso
--	Motores DC
--	Solenoides y relés
+	Servomotores
+	Motores paso a paso
+	Motores DC
+	Solenoides y relés
 
 
 CONSTRUYENDO EL CIRCUITO. DIAGRAMAS CON FRITZING, BREADBORADS Y JUMPERS
@@ -172,9 +172,9 @@ CONSTRUYENDO EL CIRCUITO. DIAGRAMAS CON FRITZING, BREADBORADS Y JUMPERS
 	Conociendo Fritzing
 
 	Nuestra placa de prototipado sin soldaduras, el breaboard.
-		
+	
 
-		
+	
 EMPEZANDO CON ARDUINO
 
 Introducción. Arduino como  plataforma de prototipado electrónico 
@@ -228,15 +228,15 @@ UN POCO DE MATEMÁTICAS
 
 Las matemáticas que usaremos para realizar los ejemplos de este curso y la mayor parte de los proyectos se reducirán a:
 
-		Suma, resta, división y multiplicación
+	Suma, resta, división y multiplicación
 
-		Incremento y disminución de valores
+	Incremento y disminución de valores
 
-		Valores máximos y mínimos
+	Valores máximos y mínimos
 
 El resto de una división
 
-		Potencias y raíces
+	Potencias y raíces
 
 	Números aleatorios
 
@@ -267,13 +267,13 @@ ENTRADAS DIGITALES Y ANALÓGICAS
 
 	Los pines de la placa Arduino
 
--	Alimentación
-
--	Masa
-
--	Pines digitales
-
--	Pines Analógicos
+        	Alimentación
+        	
+        	Masa
+        	
+        	Pines digitales
+        	
+        	Pines Analógicos
 
 	Montando un interruptor
 
@@ -323,15 +323,15 @@ MOVIENDO EL MUNDO REAL CON ARDUINO
 
 	Introducción 
 
--	Las articulaciones de un proyecto robótico, Servomotores
--	Añadiendo movimiento continúo, Motores DC
--	Conectando Arduino a la red eléctrica, Relés
--	Ingeniería de precisión, Motores paso a paso
+	Las articulaciones de un proyecto robótico, Servomotores
+	Añadiendo movimiento continúo, Motores DC
+	Conectando Arduino a la red eléctrica, Relés
+	Ingeniería de precisión, Motores paso a paso
 
 
 Control de un servomotor
 
-             Control de velocidad de un motor DC
+        Control de velocidad de un motor DC
 
 Control de voltajes domésticos mediante relés
 
