@@ -3,7 +3,7 @@
 # Material para el taller de Nuevas tecnologías
 
 
-INTRODUCCION
+# INTRODUCCION
 
 ¿Por qué open source?
 
@@ -12,7 +12,7 @@ Programación interactiva
 Conceptos básicos de programación
 
 
-¿POR QUÉ OPEN SOURCE?
+# ¿POR QUÉ OPEN SOURCE?
 
 Acceso universal a diseños a través de licencias libres
 
@@ -23,7 +23,7 @@ Son proyectos cooperativos y solidarios
 El movimiento open source se gestó como una resistencia a las licencias propietarias.
 
 
-PROGRAMACIÓN INTERACTIVA
+# PROGRAMACIÓN INTERACTIVA
 
 Es un campo emergente que engloba arte, diseño, psicología, ingeniería y programación
 
@@ -40,6 +40,7 @@ El inconsciente de un programa: feedback loop
 Interacción simple: Entrada de datos
 
 Interacción didáctica y sistemas regulados
+
 Interacción completa en tiempo real, el futuro. 
 
 Los lenguajes de la interacción
@@ -88,7 +89,7 @@ Flujo en trabajos de programación
 
 
 
-CONCEPTOS BÁSICOS EN PROGRAMACIÓN
+# CONCEPTOS BÁSICOS EN PROGRAMACIÓN
 
 	Código, fichero, compilador y ejecutable
 
@@ -115,25 +116,15 @@ Tipos simples: Enteros, coma flotante, carácter, booleana, cadena, byte y long.
 	Funciones
 
 	Clases: objetos, atributos y métodos.
-	
-	UNAS NOCIONES DE ELECTRICIDAD
-
-COMPONENTES ELECTRÓNICOS BÁSICOS
-
-CONSTRUYENDO EL CIRCUITO. DIAGRAMAS CON FRITZING, BREADBORADS Y JUMPERS
-
-EMPEZANDO CON ARDUINO
 
 
+# UNAS NOCIONES DE ELECTRICIDAD
 
+Conceptos Básicos
 
-UNAS NOCIONES DE ELECTRICIDAD
-
-	Conceptos Básicos
-
-	Voltaje
-	Intensidad 
-	Resistencia
+Voltaje
+Intensidad 
+Resistencia
 
 Entendiendo la electricidad. La ley de Ohm
 
@@ -141,24 +132,24 @@ Circuitos en serie y en paralelo
 
 
 
-COMPONENTES ELECTRÓNICOS BÁSICOS
+# COMPONENTES ELECTRÓNICOS BÁSICOS
 
-	Resistencias
+Resistencias
 
-	Potenciómetros (resistencias variables)
+Potenciómetros (resistencias variables)
 
-	Fotoresistencias
+Fotoresistencias
 
-	Interruptores
+Interruptores
 
-	Diodos y leds
+Diodos y leds
 
-	Transductores piezoeléctricos
+Transductores piezoeléctricos
 
 
-	El transistor mosfet
+El transistor mosfet
 
-	Motores 
+Motores 
 
 	Servomotores
 	Motores paso a paso
@@ -166,7 +157,7 @@ COMPONENTES ELECTRÓNICOS BÁSICOS
 	Solenoides y relés
 
 
-CONSTRUYENDO EL CIRCUITO. DIAGRAMAS CON FRITZING, BREADBORADS Y JUMPERS
+# CONSTRUYENDO EL CIRCUITO. DIAGRAMAS CON FRITZING, BREADBORADS Y JUMPERS
 
  
 
@@ -176,7 +167,7 @@ CONSTRUYENDO EL CIRCUITO. DIAGRAMAS CON FRITZING, BREADBORADS Y JUMPERS
 	
 
 	
-EMPEZANDO CON ARDUINO
+# EMPEZANDO CON ARDUINO
 
 Introducción. Arduino como  plataforma de prototipado electrónico 
 
@@ -190,18 +181,7 @@ Introducción. Arduino como  plataforma de prototipado electrónico
 
 Modificaciones y mejoras. Ampliando el funcionamiento de un programa 
 
-
-
-ENTENDIENDO UN SKETCH DE ARDUINO
-
-UN POCO DE MATEMÁTICAS
-
-COMUNICACIONES POR EL PUERTO SERIE
-
-
-
-
-ENTENDIENDO UN SKETCH DE ARDUINO
+# ENTENDIENDO UN SKETCH DE ARDUINO
 
 	Ejemplos y librerías que acompañan al IDE
 
@@ -225,7 +205,7 @@ Conversión de número a texto
 
 
 
-UN POCO DE MATEMÁTICAS
+# UN POCO DE MATEMÁTICAS
 
 Las matemáticas que usaremos para realizar los ejemplos de este curso y la mayor parte de los proyectos se reducirán a:
 
@@ -242,7 +222,7 @@ El resto de una división
 	Números aleatorios
 
 
-COMUNICACIONES POR EL PUERTO SERIE
+# COMUNICACIONES POR EL PUERTO SERIE
 
 	¿Cómo funciona el puerto serie?
 
@@ -255,16 +235,7 @@ COMUNICACIONES POR EL PUERTO SERIE
 	Otros interfaces de entrada para Arduino
 
 
-ENTRADAS DIGITALES Y ANALÓGICAS
-
-EL VERDADERO INTERNET DE LAS COSAS: SENSORES
-
-INDICADORES VISUALES 
-
-
-
-
-ENTRADAS DIGITALES Y ANALÓGICAS
+# ENTRADAS DIGITALES Y ANALÓGICAS
 
 	Los pines de la placa Arduino
 
@@ -282,7 +253,7 @@ ENTRADAS DIGITALES Y ANALÓGICAS
 
 	Conversiones de valores analógicos
 
-EL VERDADERO INTERNET DE LAS COSAS: SENSORES
+# EL VERDADERO INTERNET DE LAS COSAS: SENSORES
 
 	¿Qué es el IoT?
 
@@ -299,7 +270,7 @@ EL VERDADERO INTERNET DE LAS COSAS: SENSORES
 	Control de servo con el sensor flex
 
 
-INDICADORES VISUALES 
+# INDICADORES VISUALES 
 
 	Introducción a las salidas digitales y analógicas
 
@@ -311,16 +282,9 @@ INDICADORES VISUALES
 
 	Creando una barra de estado usando varios leds
 
-MOVIENDO EL MUNDO REAL CON ARDUINO
-
-CONTROL A DISTANCIA DE DISPOSITIVOS
-
-PROYECTOS DE AUDIO
-
-
 
  
-MOVIENDO EL MUNDO REAL CON ARDUINO
+# MOVIENDO EL MUNDO  CON ARDUINO
 
 	Introducción 
 
@@ -339,7 +303,7 @@ Control de voltajes domésticos mediante relés
 Control de un motor paso a paso
 
 
-CONTROL A DISTANCIA DE DISPOSITIVOS
+# CONTROL A DISTANCIA DE DISPOSITIVOS
 
 Introducción a la tecnología infrarroja
 
@@ -351,7 +315,7 @@ Control remoto de un dispositivo conectado a la red eléctrica
 
 
 
-PROYECTOS DE AUDIO
+# PROYECTOS DE AUDIO
 
 
 	Introducción. Arduino como un sintetizador
@@ -363,15 +327,7 @@ PROYECTOS DE AUDIO
 	Proyecto de un sintetizador de audio
 
 
-CONECTANDO ARDUINO A INTERNET
-
-
-PROGRAMACIÓN AVANZADA. LAS LIBRERIAS
-
-
-
- 
- CONECTANDO ARDUINO A INTERNET
+# CONECTANDO ARDUINO A INTERNET
 
 
 	Introducción. Enviando señales al mundo
@@ -385,7 +341,7 @@ PROGRAMACIÓN AVANZADA. LAS LIBRERIAS
 	Formato HTML. Colocando botones en nuestra web
 
 
-PROGRAMACIÓN AVANZADA. LAS LIBRERIAS
+# PROGRAMACIÓN AVANZADA. LAS LIBRERIAS
 
 
 	Introducción. Añadiendo funciones a Arduino
