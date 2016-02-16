@@ -1,4 +1,5 @@
 # TallerNuevasTecnologias
+
 Material para el taller de Nuevas tecnologías
 
 
@@ -43,35 +44,35 @@ Interacción completa en tiempo real, el futuro.
 
 Los lenguajes de la interacción
 
-	Manipulación física
+Manipulación física
 
-	Entrada por teclado
+Entrada por teclado
 
-	El ratón
+El ratón
 
-	Imágenes, localización y detección de presencia
+Imágenes, localización y detección de presencia
 
-	Interfaces biométricos, hápticos y multitáciles
+Interfaces biométricos, hápticos y multitáciles
 
-	Gestos
+Gestos
 
-	Reconocimiento de voz
+Reconocimiento de voz
 
 Intercambio de datos y exploración
 
-	Soporte para la visualización de datos
+Soporte para la visualización de datos
 
-	Organización de tareas
+Organización de tareas
 
-	Creación de experiencias
+Creación de experiencias
 
-	Colaboración entre usuarios
+Colaboración entre usuarios
 
- 	Control de objetos mecánicos
+ Control de objetos mecánicos
 
-	Modificación y mejora de herramientas
+Modificación y mejora de herramientas
 
-	Creación de entornos. Arquitecutura reactiva
+Creación de entornos. Arquitecutura reactiva
 
 Flujo en trabajos de programación
 
