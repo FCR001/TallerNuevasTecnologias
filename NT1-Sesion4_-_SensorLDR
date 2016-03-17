@@ -1,0 +1,21 @@
+int led=13; // Pin 13 para el led
+int LDRsensor = A2; //Pin Analogico 2 para el sensor LDR
+int sensorValue = 0;
+void setup() 
+{
+pinMode(led,OUTPUT); 
+pinMode(LDRsensor,INPUT);
+}
+void loop() 
+{ 
+ sensorValue=analogRead(LDRsensor); delay(50);
+ 
+ if(sensorValue < 100){
+   digitalWrite(13,HIGH);
+   delay(1000);
+   }
+    else{
+    digitalWrite(13,LOW);
+    delay(100);
+    }  
+}
