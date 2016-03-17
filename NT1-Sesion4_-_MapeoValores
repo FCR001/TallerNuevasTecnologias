@@ -1,0 +1,38 @@
+/* Lectura analógica
+ *  El siguiente programa leera los valores de un potenciometro y los imprimira.
+ *  El led se encendera de forma progresiva dependiendo de los valores del potenciometro
+ */
+const int analogInPin = A0;  // Pin analógico para el potenciometro
+const int analogOutPin = 9; // Pin digital "emulando" analogico para el LED
+
+int sensorValue = 0;        // lectura del valor del potenciometro
+int outputValue = 0;        // valor de salida para el LED
+
+void setup() {
+  Serial.begin(9600); //Inicializamos el puerto serie
+}
+
+void loop() {
+  // leemos el valor del potenciometro
+  sensorValue = analogRead(analogInPin);
+  // mapeamos los valores de 0 a 255
+  outputValue = map(sensorValue, 0, 1023, 0, 255);
+  // modificamos el valor del LED para cambiar su intensidad
+  analogWrite(analogOutPin, outputValue);
+
+  // imprimimos los resultados en la consola monitor
+  Serial.print("Sensor = " );
+  Serial.print(sensorValue);
+  Serial.print("\t Valor convertido = ");
+  Serial.println(outputValue);
+
+  //esperamos dos milisegundos para refrescar los valores
+  delay(2);
+}
+
+  Serial.print("\t Valor convertido = ");
+  Serial.println(outputValue);
+
+  //esperamos dos milisegundos para refrescar los valores
+  delay(2);
+}
